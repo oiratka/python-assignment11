@@ -1,0 +1,15 @@
+1. Differences between static and interactive visualizations
+Interactive visualizations are more fun and engaging way. They can give more information,  more ways to explore and learn.
+Static can be useful when you need simple and straighforward data.
+
+2. Advantages of using dashboards for real-time data exploration.
+With dashboards you can easily explore and understand data in real time, you see how
+graphs and charts data is changing in real time.
+That's how you can spot trends and problems quickly.
+
+3. How interactive tools like Plotly and Dash can improve data communication in professional settings.
+
+Interactive tools save time, all team members see live data from wherever they are.
+These tools help focus on data that really matters for differents members of the team.
+
+ 
